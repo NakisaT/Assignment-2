@@ -9,7 +9,7 @@ Introduction.
 Week2-Part 4
 
 
-again2
+again22
 
-<img src="/image/week2-4.png" alt="result" />
+<img src="/Assignment-2/images/week2-4.png" alt="result" />
 

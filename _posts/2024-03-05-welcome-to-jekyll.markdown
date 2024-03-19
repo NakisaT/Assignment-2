@@ -9,7 +9,7 @@ Introduction.
 Week2-Part 4
 
 
-again
+again2
 
-<img src= "https://github.com/NakisaT/Assignment-2/blob/main/image/week2-4.png" alt="result">
+<img src= "https://github.com/NakisaT/Assignment-2/blob/main/image/week2-4.png" alt="result" />
 

@@ -11,4 +11,4 @@ Week2-Part 4
 
 
 
-<img src= "image/week2-4.png" alt="result">
+<img src= "image\week2-4.png" alt="result">

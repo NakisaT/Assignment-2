@@ -13,7 +13,7 @@ Week2-Part 4
 
 <p>
 <h1>Insidious Fine Particles</h1>
-Particles as small as 2.5 micrometers, target our healtt
+<h1>Particles as small as 2.5 micrometers, target our health</h1>
 
 A silent death is the nature of particulate pollution. an invisible treat trampling on our most precious asset, our health, ravaging Mother Nature across Europe.
 Particulate matter known as PM2.5 is to blame, for all. It refers to inhalable fine particles, as small as 2.5 micrometers, posing an immense threat to human health.
@@ -24,5 +24,5 @@ Here comes another reason, just in 2019, about four million lives were lost due 
 Europe’s air quality status for 2023 gives rise to more concern, as the latest assessment raining an alarm reveals a worrying picture of not only our present but also our future,  pollutants levels are rising above both  EU air quality standards and WHO guidelines, where Italy and central-eastern Europe are struggling most with the highest level of particulate pollution. 
 
 <img src="/Assignment-2/images/week2-4.png" alt="result" />
-<img src="/Assignment-2/images/boxplot.png.png" alt="result1" />
+<img src="/Assignment-2/images/boxplot.png.png" alt="boxplot" />
 

@@ -22,4 +22,5 @@ Here comes another reason, just in 2019, about four million lives were lost due 
 
 
 <img src="/Assignment-2/images/week2-4.png" alt="result" />
+<img src="/Assignment-2/images/boxplot.png.png" alt="result" />
 

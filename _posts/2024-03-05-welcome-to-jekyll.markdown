@@ -1,10 +1,10 @@
 ---
 layout: post
-#title:  "SF Data Crime!"
+title:  "Air Quality"
 #date:   2024-03-05 11:31:38 +0100
 #categories: jekyll update
 ---
-Air Quality
+
 
 
 
@@ -12,7 +12,7 @@ Air Quality
 
 
 <p>
-<h2>Insidious Fine Particles</h2>
+<h3>Insidious Fine Particles</h3>
 <h1>Particles as small as 2.5 micrometers, target our health</h1>
 
 A silent death is the nature of particulate pollution. an invisible treat trampling on our most precious asset, our health, ravaging Mother Nature across Europe.
@@ -23,9 +23,17 @@ Here comes another reason, just in 2019, about four million lives were lost due 
 
 Europe’s air quality status for 2023 gives rise to more concern, as the latest assessment raining an alarm reveals a worrying picture of not only our present but also our future,  pollutants levels are rising above both  EU air quality standards and WHO guidelines, where Italy and central-eastern Europe are struggling most with the highest level of particulate pollution. 
 
+</p>
+
+
+<iframe src="/Assignment-2/heatmap_with_time.html.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
 
 <img src="/Assignment-2/images/avarage-plot.png" alt="average" />
 
+
+<p>
 
 <img src="/Assignment-2/images/boxplot.png" alt="box" />
 

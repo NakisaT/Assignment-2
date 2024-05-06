@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "SF Data Crime!"
-date:   2024-03-05 11:31:38 +0100
-categories: jekyll update
+#title:  "SF Data Crime!"
+#date:   2024-03-05 11:31:38 +0100
+#categories: jekyll update
 ---
 Air Quality
 
-Week2-Part 4
+
 
 
 
@@ -23,6 +23,17 @@ Here comes another reason, just in 2019, about four million lives were lost due 
 
 Europe’s air quality status for 2023 gives rise to more concern, as the latest assessment raining an alarm reveals a worrying picture of not only our present but also our future,  pollutants levels are rising above both  EU air quality standards and WHO guidelines, where Italy and central-eastern Europe are struggling most with the highest level of particulate pollution. 
 
-<img src="/Assignment-2/images/week2-4.png" alt="result" />
-<img src="/Assignment-2/images/boxplot.png" alt="boxplot" />
+
+<img src="/Assignment-2/images/avarage-plot.png" alt="average" />
+
+
+<img src="/Assignment-2/images/boxplot.png" alt="box" />
+
+
+
+
+<img src="/Assignment-2/images/rolling-both.png" alt="rolling" />
+
+
+
 

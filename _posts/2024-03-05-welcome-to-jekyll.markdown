@@ -31,7 +31,8 @@ Europe’s air quality status for 2023 gives rise to more concern, as the latest
 </p>
 
 <p>
-Let’s take a deeper look, based on Air quality in the EU's recent update the  PM2.5 concentration within the EU at present is 7.5 μg/m3 surpassing the  WHO’s annual limit of 5 μg/m3 by 1.5 times ( https://www.iqair.com/france/normandy/eu) (https://www.eea.europa.eu/publications/status-of-air-quality-in-Europe-2022/europes-air-quality-status-2022/world-health-organization-who-air). Despite of notable efforts and improvements, pollution is still a persistent treat to our health and remains the leading cause of mortality across the European Union.
+Let’s take a deeper look, based on Air quality in the EU's recent update the  PM2.5 concentration within the EU at present is 7.5 μg/m3 surpassing the  WHO’s annual limit of 5 μg/m3 by 1.5 times  <a href="https://www.eea.europa.eu/publications/status-of-air-quality-in-Europe-2022/europes-air-quality-status-2022/world-health-organization-who-air">Link to External Source</a>
+) . Despite of notable efforts and improvements, pollution is still a persistent treat to our health and remains the leading cause of mortality across the European Union.
 (https://healthpolicy-watch.news/air-quality-in-europe-shows-significant-improvement-since-2003-but-acute-health-impacts-persist/ )
 Air pollution is not only a threat to human health but also a threat to our environment. Its magnitude is beyond humans, razing our planet and the entire ecosystem. Now an important question arises: how can we strive against this unseen enemy? the answer is that by raising public awareness and monitoring air quality we can not only track changes but also assess our current strategies, develop new approaches, and reduce the negative impact of pollution
 

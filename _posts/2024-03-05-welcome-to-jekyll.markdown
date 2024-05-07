@@ -57,7 +57,7 @@ The world map clearly shows that PM2.5 pollution has had a significant impact on
 
 Based on the study shows us the seasonal variations in PM2.5 levels in Europe. It is evident that the concentration of PM2.5 is significantly higher during the Winter and Spring seasons. The highest recorded concentration of PM2.5 in the Winter season reaches 95 µg/m³, while in the Spring season follows closely with levels, it is around 75 µg/m³.
 
-<img src="/Assignment-2/images/season-boxsplot.png" alt="seasonbox" />
+<img src="/Assignment-2/images/season-boxsplot.jpeg" alt="seasonbox" />
 
 
 </p>

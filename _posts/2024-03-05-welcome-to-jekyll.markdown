@@ -43,7 +43,7 @@ Air pollution is not only a threat to human health but also a threat to our envi
 Let us take a moment to gaze at the world map down below, a vibrant heat map that paints a picture of PM2.5 levels across the globe from 2016 to 2024. The visualization lets us track the flow of pollution patterns and pinpoint the areas bearing the brunt of the impact and our data support these observations. However, it is crucial to remember that although the visualization is comprehensive, the amount of data varies from year to year. Due to limited data availability, there are noticeable gaps in the years before 2016, which is why yearly data displays fluctuation.
 The world map clearly shows that PM2.5 pollution has had a significant impact on the world. It is not only a question of pollution, but also of how this pollution contributes to increasing world temperatures, especially in the highlighted regions. 
 
-<iframe src="/Assignment-2/images/heatmap_with_time.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="/Assignment-2/images/heatmap_with_time.html" width="800" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
 <p>

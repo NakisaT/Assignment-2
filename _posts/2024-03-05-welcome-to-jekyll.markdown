@@ -23,7 +23,7 @@ with each breath, these tiny bits penetrate into our lungs, awakening an unfavor
 <p>
 Is it still time to understand the importance of particle pollution and take urgent action? 
 Here comes another reason, just in 2019, about four million lives were lost due to particle pollution exposure. We are in the battle for clean air, so every decision and action we take matters. we can be either our savior or our terminator, we can either contribute to the solutions or add more problems, it is utterly our call to make. That sounds scary right, more detailed information awaiting 
-<a href="https://www.unep.org/interactives/air-pollution-note/"> here </a>
+<a href="https://www.unep.org/interactives/air-pollution-note/"> here. </a>
 
 </p>
 
@@ -34,7 +34,7 @@ Europe’s air quality status for 2023 gives rise to more concern, as the latest
 
 
 <p>
-Let’s take a deeper look, based on Air quality in the EU's recent update the  PM2.5 concentration within the EU at present is 7.5 μg/m3 surpassing the  WHO’s annual limit of 5 μg/m3 by 1.5 times. if you are seeking more data<a href="https://www.eea.europa.eu/publications/status-of-air-quality-in-Europe-2022/europes-air-quality-status-2022/world-health-organization-who-air">click here.</a>
+Let’s take a deeper look, based on Air quality in the EU's recent update the  PM2.5 concentration within the EU at present is 7.5 μg/m3 surpassing the  WHO’s annual limit of 5 μg/m3 by 1.5 times. if you are seeking more data <a href="https://www.eea.europa.eu/publications/status-of-air-quality-in-Europe-2022/europes-air-quality-status-2022/world-health-organization-who-air">click here.</a>
 Despite of notable efforts and improvements, pollution is still a persistent treat to our health and remains the leading cause of mortality across the European Union.
 Air pollution is not only a threat to human health but also a threat to our environment. Its magnitude is beyond humans, razing our planet and the entire ecosystem. Now an important question arises: how can we strive against this unseen enemy? the answer is that by raising public awareness and monitoring air quality we can not only track changes but also assess our current strategies, develop new approaches, and reduce the negative impact of pollution
 
@@ -60,7 +60,7 @@ The world map clearly shows that PM2.5 pollution has had a significant impact on
 
 <p>
 
-Based on the study shows us the seasonal variations in PM2.5 levels in Europe. It is evident that the concentration of PM2.5 is significantly higher during the Winter and Spring seasons. The highest recorded concentration of PM2.5 in the Winter season reaches 95 µg/m³, while in the Spring season follows closely with levels, it is around 75 µg/m³.
+ the Studies that show us the seasonal variations in PM2.5 levels in Europe, now confirmed by our invistigation. Look at the visualization below the result of our research. It is evident that the concentration of PM2.5 is significantly higher during the Winter and Spring seasons. The highest recorded concentration of PM2.5 in the Winter season reaches 95 µg/m³, while in the Spring season follows closely with levels, it is around 75 µg/m³.
 
 
 <p>
@@ -93,7 +93,7 @@ malfunctioning of the monitoring station which led to incorrect measurement
 <p>
 
 Ukraine has a high level of humidity that remains constant throughout the year. This climatic feature challenges studying the environmental factors affecting the country, such as PM2.5 pollution. Our data reveals a fascinating pattern. As the temperature drops below 15 degrees Celsius, the PM2.5 pollution levels rise. While there is a visible reduction in PM2.5 pollution when the temperature rises above 15 degrees. 
-The constant high humidity disturbs our analysis and prevents us from drawing definitive conclusions about a possible interaction between humidity and PM2.5. The relation between these two factors remains a mystery. We are persistent in our research and committed to unveiling more discoveries about Vinnytsia. Stay with us for further insights. 
+The constant high humidity disturbs our analysis and prevents us from drawing definitive conclusions about a possible interaction between humidity and PM2.5. The relation between these two factors remains a mystery. We are persistent in our research and committed to unveiling more discoveries about Vinnytsia. 
 </p>
 
 <p>
@@ -103,8 +103,10 @@ The constant high humidity disturbs our analysis and prevents us from drawing de
 </p>
 
 <p>
+Our story concludes, by adding a rolling average plot, displaying average variation. As the plot reveals a correlation between humidity and temperature regarding PM2.5, Lower temperature and higher humidity result in higher levels of PM2.5,  as suggested by scientific researches, but still spring defies the conventional expectations. Our curiosity has bound to our study,  stay with us for more exploration and adventure.
 
 </p>
+
 <p>
 <img src="/Assignment-2/images/rolling-both.png" alt="rolling" />
 

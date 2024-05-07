@@ -45,7 +45,6 @@ The world map clearly shows that PM2.5 pollution has had a significant impact on
 
 <p>
 
-<iframe src="heatmap_with_time.html.html" width="600px" height="450px"></iframe>
 
 
 </p>

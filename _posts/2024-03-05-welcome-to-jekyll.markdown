@@ -103,7 +103,7 @@ The constant high humidity disturbs our analysis and prevents us from drawing de
 </p>
 
 <p>
-Our story concludes, by adding a rolling average plot, displaying average variation. As the plot reveals a correlation between humidity and temperature regarding PM2.5, Lower temperature and higher humidity result in higher levels of PM2.5,  as suggested by scientific researches, but still spring defies the conventional expectations. Our curiosity fuels our study, stay with us for more exploration and adventure.
+Our story concludes, by adding a rolling average plot, displaying average variation. As the plot reveals a correlation between humidity and temperature regarding PM2.5, Lower temperature and higher humidity result in higher levels of PM2.5,  as suggested by scientific researches, but still spring defies the conventional expectations. Our curiosity fuels our reserach, stay with us for more exploration and adventure.
 
 </p>
 
